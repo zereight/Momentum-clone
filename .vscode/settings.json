@@ -1,0 +1,13 @@
+{
+    "editor.cursorBlinking": "expand",
+    "editor.fontWeight": "bold",
+    "less.lint.boxModel": "warning",
+    "less.lint.compatibleVendorPrefixes": "warning",
+    "less.lint.duplicateProperties": "warning",
+    "less.lint.float": "warning",
+    "less.lint.idSelector": "warning",
+    "less.lint.ieHack": "warning",
+    "less.lint.important": "warning",
+    "less.lint.importStatement": "warning",
+    "less.lint.universalSelector": "warning"
+}
